@@ -47,8 +47,6 @@ public class App {
             Utils.writeResponse(out, actualResult);
 
             socket.close();
-
-
         }
     }
 }
